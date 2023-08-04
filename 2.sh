@@ -10,7 +10,7 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 
-git push -f https://github.com/TuduTian/blogs.git master:gh-pages
+git push -f https://github.com/TuduTian/blogs.git master:gh-pages 
 
 sleep 2000
 # cd -
