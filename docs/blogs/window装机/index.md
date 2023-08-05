@@ -25,6 +25,14 @@ sticky: 1
 4. phpstudy 一款开启本地数据库的软件
 5. 安卓开发工具  写原生插件的编码工具
 
+## nvm 管理可能出现的问题
+### vscode 报错 无法加载文件 C:\Program Files\nodejs\npm.ps1，因为在此系统上禁止运行脚本 
+
+- 按照下面的步骤，参考链接 https://www.cnblogs.com/chenzhiran/p/12080349.html 
+    1. 使用管理员打开 powershow 
+    2.  set-executionpolicy remotesigned 
+    3.  输入 y 回车即可
+
 
 
 
