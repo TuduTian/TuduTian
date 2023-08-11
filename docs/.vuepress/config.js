@@ -7,20 +7,19 @@ module.exports = {
     themeConfig: {
         type: "blog",
         author: '涂毒田',
-        logo: "https://gangxinbao.cn/static/img/avatar2.0115d17c.png",
-        authorAvatar: "https://gangxinbao.cn/static/img/avatar2.0115d17c.png",
+        logo: "https://tse3-mm.cn.bing.net/th/id/OIP-C.dIEcwnGxRI9qemBPD-WuZgHaEK?pid=ImgDet&rs=1",
+        authorAvatar: "https://pic1.zhimg.com/v2-dfe83a0d6e64cded0e55dec562e26398_b.jpg",
         nav: [
             { text: "首页", link: "/" },
             {
                 text: "涂毒田的博客",
                 items: [
-                    { text: "掘金", link: "" },
-                    { text: "Github", link: "" }
+                    { text: "掘金", link: "https://juejin.cn/frontend" },
+                    { text: "Github", link: "https://github.com/TuduTian" }
                 ]
             }
         ],
         subSidebar: 'auto',
-
         //时间的配置
         locales: {
             "/": {
